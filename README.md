@@ -1,4 +1,4 @@
-Chirpy - a clone app of twitter
+## Chirpy
 
 Chhirpy is a clone app of twitter using Laravel 6.x
 
